@@ -1,0 +1,21 @@
+{
+  "name": "javascriptprog-2",
+  "version": "1.0.0",
+  "description": "variables and constants",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+"start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandhini445/javascriptprog-2.git"
+  },
+  "author": "nandhini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandhini445/javascriptprog-2/issues"
+  },
+  "homepage": "https://github.com/nandhini445/javascriptprog-2#readme"
+}
